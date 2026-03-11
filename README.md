@@ -34,8 +34,8 @@ The assessment identified **four Medium-risk vulnerabilities**:
 4. Insecure Session Cookie Configuration  
 
 ## Repository Contents
-1. Vulnerability_Assessment_Report.pdf – Full professional report.
-2. Evidence/ – Supporting screenshots and tool outputs. 
+1. Vulnerability Assessment Report.pdf – Full professional report.
+2. Evidence – Supporting screenshots and tool outputs. 
 
 ## Purpose of This Project
 This project demonstrates the process of conducting a basic vulnerability assessment and documenting findings using industry-style reporting methods.
